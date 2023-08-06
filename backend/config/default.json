@@ -1,8 +1,8 @@
 {
   "mongodb": {
-    "connectionString": "mongodb+srv://Rohini24:sq3vOXmTp9OP16Pe@onlinequizproject.cbthd8s.mongodb.net/onlineexam?retryWrites=true&w=majority"
+    "connectionString": "<MONGO_DB_CONNECTION_STRING>"
   },
   "jwt": {
-    "secret": "ExaminationsPortalsApplication"
+    "secret": "<JWT_SECRET>"
   }
 }
